@@ -1,9 +1,6 @@
 
 # Saad’s Git Practice Repo
 
-## Project: Insect Game
-This repository includes **Insect**, a simple game I developed as my **Intro to Computer Science final project**. It was my first exposure to building a complete application from scratch — covering planning, coding, debugging, and presenting the final product.
-
 ## Interesting Article
 - **Title:** The Twelve-Factor App  
 - **Link:** https://12factor.net/
