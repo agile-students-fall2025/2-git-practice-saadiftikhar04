@@ -13,6 +13,10 @@ The article also reinforces reproducibility and portability: if you follow these
 > _Note: This repo is public; I wrote this with that in mind._
 
 
+### Shaf Khalid’s Comments
+I appreciated Saad’s take on the Twelve-Factor App article, especially how Saad connected its principles to modern workflows like cloud deployments and even machine learning projects. He noted that Saad’s focus on reproducibility, portability, and clean separation of concerns shows a strong understanding of why these principles matter in real-world development. I felt that Saad captured not just what the twelve factors are, but why they remain so relevant across different domains of software engineering.
+
+
 
 
 
